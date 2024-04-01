@@ -1,0 +1,25 @@
+# Object files
+*.o
+
+# Binary files
+*.bin
+*.out
+
+# Other
+*.swo
+*.swp
+*.log
+*.bak
+*.orig
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# Executables
+bucketsort
+# Ignore all text files
+*.txt
+
+# But don't ignore expected_output.txt
+!expected_output.txt
