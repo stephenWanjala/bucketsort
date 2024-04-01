@@ -1,5 +1,5 @@
 # Bucket Sort Program
-1. This program sorts words from user input into different buckets based on command line arguments. Each bucket represents a range of words, starting from the command line argument for that bucket up to (but not including) the command line argument for the next bucket.
+Sort words from user input into different buckets based on command line arguments. Each bucket represents a range of words, starting from the command line argument for that bucket up to (but not including) the command line argument for the next bucket.
 
 How to Compile and Run
 Compile the program using GCC:
